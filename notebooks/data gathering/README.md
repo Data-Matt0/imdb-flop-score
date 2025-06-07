@@ -30,3 +30,18 @@ This notebook (`01_data_gathering.ipynb`) collects and enriches data for the IMD
 ## 📁 Output
 
 - `tmdb_movie_data_by_title.csv`: Clean, enriched dataset with TMDb metadata
+- 
+## 🔑 API Key Setup
+
+This project uses the [TMDb API](https://www.themoviedb.org/documentation/api) to gather movie metadata.
+
+### How to get an API key
+
+1. Create a free TMDb account at [themoviedb.org](https://www.themoviedb.org/)
+2. Visit the [API settings page](https://www.themoviedb.org/settings/api)
+3. Apply for a Developer API key
+4. Once approved, you'll receive an API key
+
+
+
+
