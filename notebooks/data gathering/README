@@ -1,0 +1,24 @@
+# IMDb Flop Score: Data Gathering
+
+This notebook fetches detailed movie data from The Movie Database (TMDb) API  
+to enrich a list of the worst 200 movies from IMDb, based on title and year matching.
+
+## How to run
+
+1. Upload your `worst_200_movies.csv` file in the Colab file uploader.  
+2. Enter your TMDb API key when prompted.  
+3. The notebook fetches budget, revenue, popularity, and ratings for each movie.  
+4. Results are saved to `tmdb_movie_data_by_title.csv`.
+
+## Skills demonstrated
+
+- Working with public APIs (TMDb)  
+- Handling incomplete data (title/year matching)  
+- Data enrichment & cleaning  
+- Rate limiting and error handling
+
+## Next steps
+
+- Merge enriched data with original dataset  
+- Calculate flop scores  
+- Perform exploratory data analysis and visualization  
