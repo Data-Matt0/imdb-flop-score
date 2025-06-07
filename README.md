@@ -18,3 +18,8 @@ The goal is to define a custom **Flop Score** that combines box office loss and 
 - Handling missing/imperfect real-world data
 - Preparing for custom metric development and EDA
 
+## 📉 Visuals
+
+### 💣 Top 10 Worst Flops (by Flop Score)
+
+![Top 10 Flops](visuals/top_10_flops_chart.png)
