@@ -49,7 +49,7 @@ The bar charts below highlight the most influential features for each model, rev
 
 | Logistic Regression Coefficients | Random Forest Feature Importance |
 |:-------------------------------:|:-------------------------------:|
-| ![Logistic Regression Feature Importance](visuals/logistic_regression_feature_importance.png) | ![Random Forest Feature Importance](visuals/random_forest_feature_importance.png) |
+| ![Logistic Regression Feature Importance](visuals/logistic_regression_feature_coefficients.png) | ![Random Forest Feature Importance](visuals/random_forest_feature_importances.png) |
 
 </div>
 
